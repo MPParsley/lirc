@@ -1,7 +1,7 @@
 # lirc
 
 Remotes
-- Acer P1303W
+- Acer A2603 (for P1303W projector)
 - Pioneer VSX 420
 
 Buttons

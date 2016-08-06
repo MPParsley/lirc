@@ -5,6 +5,7 @@
 - Apple Silver A1294
 - Apple White A1156
 - Magic Lighting (Infrared LED spots)
+- Micronova (for pellet stoves)
 - Pioneer VSX 420
 - Tiny Love (for baby mobile)
 
